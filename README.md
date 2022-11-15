@@ -33,11 +33,6 @@ git clone https://github.com/aruack/fb-cracker
 
 
 ## IMPORTANT NOTICE 
-  
-   YOU NEED YO UNLOCK THE TOOL 
- IF YOU WANT TO GET CODE TEXT ON [TELEGRAM](https://t.me/officalkumar) 
-
-## Help
 
 If pkg update command will not work then first upgrade your termux and type y alltimes whenever asked..
 

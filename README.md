@@ -22,7 +22,7 @@ pkg install git
 git clone https://github.com/aruack/fb-cracker
 ```
 ```
- cd facebook-cracker
+ cd fb-cracker
 ```
 ```
  chmod +x facebook.py
